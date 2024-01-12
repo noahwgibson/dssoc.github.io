@@ -90,7 +90,7 @@ allowfullscreen></iframe>
 
 **Friday**: Coding Basics
 
-**Following Wednesday (1/24)**: Lab due by 5PM
+**Following Wednesday (1/24)**: Lab due by 6PM
 
 <!--Group discussion questions for this week ([see group assignments](https://dssoc.github.io/assignments/group_assignments.txt)):-->
 
